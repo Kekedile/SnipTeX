@@ -17,6 +17,7 @@ I would like to thank [Honza](https://github.com/honza) for letting me do this p
 2. Place the file in the Sublime Text 3 packages directory then restart Sublime:
     - On Windows: ```C:\Users\{user}\AppData\Roaming\Sublime Text 3\Packages```
     - On Linux: ```~/.config/sublime-text-3/Packages```
+    - On MacOS: ``` ~/Library/Application Support/Sublime Text/Packages```
 
 ## Current available snippets
 To use each snippet, write the corresponding "tab trigger" and press ```Tab```, the cursor will be automatically placed where it's most relevant.
